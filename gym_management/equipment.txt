@@ -1,0 +1,35 @@
+Cardio Section:
+    1)curve treadmill
+    2)GTX treadmill
+    3)Leather kettlebell
+    4)Battle Rope
+    5)punching bag
+
+Wight lifting section:
+
+   Leg section:
+    6)Leg extension
+    7)Leg press
+    8)Leg curl
+    9)hack squat
+ 
+   chest section:
+    10)Incline chest press
+    11)flat chest fly
+
+   Back section:
+    12)seated row
+    13)T-bar row
+    14)Hyper extension
+
+   Soulder section:
+    15)soulder press
+
+   muscle section:
+    15)preacher curl
+
+   Special machine:\n");
+    16)4 station machine\n");
+    	-cable extension\n");
+    	-Let pull down\n");
+    	-seated row\n");

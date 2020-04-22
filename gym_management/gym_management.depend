@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1582283531 source:c:\users\ashiq\desktop\gym_management\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
