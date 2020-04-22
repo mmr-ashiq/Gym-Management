@@ -6,6 +6,10 @@ Software Development Capstone project
 
 **Screenshot:**
 
-Main Menu
+>Main Menu
 
-![gym](https://i.ibb.co/KcPQLvz/main-menu.png)
+![gym](main-menu.png)
+
+>Receptionist Section
+
+![Rec-sec](recep-signin.png)
