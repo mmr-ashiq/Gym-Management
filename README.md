@@ -8,4 +8,4 @@ Software Development Capstone project
 
 Main Menu
 
-![gym](https://ibb.co/rKjLcrf)
+![gym](https://i.ibb.co/KcPQLvz/main-menu.png)
