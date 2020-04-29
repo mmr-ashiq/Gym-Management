@@ -8,8 +8,11 @@ Software Development Capstone project
 
 >Main Menu
 
-![gym](main-menu.png)
+![main-menu](https://user-images.githubusercontent.com/30866225/80641711-1540ae80-8a87-11ea-9cb1-fb7e1f7cdee9.png)
+
+
+
 
 >Receptionist Section
 
-![Rec-sec](recep-signin.png)
+![Screenshot_3](https://user-images.githubusercontent.com/30866225/80641806-3c977b80-8a87-11ea-9fa1-05c8eb8b69c3.png)
