@@ -22,3 +22,5 @@ Software Development Capstone project
 
 
 ![BMI-calculator](https://user-images.githubusercontent.com/30866225/80641975-81231700-8a87-11ea-94e6-2dc5aea98bd8.png)
+
+
